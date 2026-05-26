@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+colorama
+matplotlib
+openpyxl
+lxml

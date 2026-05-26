@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+*.csv
+*.json
+*.xlsx
+*.png
+*.db
